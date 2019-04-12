@@ -2,14 +2,14 @@
 This is an example starter theme that includes:
 
 - Webpack (using Laravel Mix)
-- Materialize-scss
+- UIkit-scss
 - jQuery
 
 # Setup
 
 1: Clone repo 
 
-   git clone https://github.com/Allekslar/materialize_css_starter.git
+   git clone https://github.com/Allekslar/uikit_scss_starter.git
 
 2: Install packages
 
